@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "./lib",
+    "lib": ["DOM", "es2023"],
+    "module": "ESNext",
+    "target": "ESNext",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "bundler",
+    "sourceMap": true,
+    "sourceRoot": "./src",
+    "declaration": true,
+    "declarationMap": true
+  },
+  "include": ["src"]
+}
